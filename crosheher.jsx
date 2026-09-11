@@ -13,7 +13,7 @@ const C = {
   blushSoft: "#FCEAEC",
   peach: "#FBD9C6",
   butter: "#F3D67B",
-  butterSoft: "#F8E7A8",
+  butterSoft: "#e7d697",
   rosewood: "#A63A50",
   rosewoodDark: "#7C2A3B",
   plum: "#3E2A2F",
